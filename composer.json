@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/ES_Custommenu",
+    "name": "openmage-module-fostering\/es_custommenu",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Eleven Soft CustomMenu is very simple module for easy creation menus and add it to any area of site.",
     "authors": [
